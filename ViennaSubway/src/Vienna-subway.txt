@@ -1,0 +1,101 @@
+Start                Stop                     Line    Color         Time
+Oberlaa,              Neulaa,                     1,    red,              1
+Neulaa,                Alaudagasse,               1,     red,             2
+Alaudagasse,           Altes Landgut,             1,     red,             2
+Altes Landgut,         Troststrasse,              1,     red,             1
+Troststrasse,          Reumannplatz,              1,     red,             1
+Reumannplatz,          Keplerplatz,               1,     red,             1                     
+Keplerplatz,           Suedtiroler Platz - Hauptbahnhof,	1,     red,             2
+Suedtiroler Platz - Hauptbahnhof,     Taubstummengasse,         1,     red,             1
+Taubstummengasse,      Karlsplatz,                1,     red,             2
+Karlsplatz,            Stephansplatz,             1,     red,             2
+Stephansplatz,         Schwedenplatz,             1,     red,             1
+Schwedenplatz,         Nestroyplatz,              1,     red,             1
+Nestroyplatz,          Praterstern,               1,     red,             1
+Praterstern,           Vorgartenstrasse,          1,     red,             1
+Vorgartenstrasse,      Donauinsel,                1,     red,             2
+Donauinsel,            Kaisermuehlen/VIC,         1,     red,             1
+Kaisermuehlen/VIC,     Alte Donau,                1,     red,             2
+Alte Donau,            Kagran,                    1,     red,             1
+Kagran,                Kagraner Platz,            1,     red,             2
+Kagraner Platz,        Rennbahnweg,               1,     red,             2
+Rennbahnweg,           Aderklaaer strasse,        1,     red,             1
+Aderklaaer strasse,    Grossfeldsiedlung,         1,     red,             1
+Grossfeldsiedlung,     Leopoldau,                 1,     red,             2
+Seestadt,              Aspern Nord,               2,    purple,           2
+Aspern Nord,           Hausfeldstrasse,           2,    purple,           2
+Hausfeldstrasse,       Aspernstrasse,             2,    purple,           2
+Aspernstrasse,         Donauspital,               2,    purple,           1
+Donauspital,           Hardeggasse,               2,    purple,           1
+Hardeggasse,           Stadlau,                   2,    purple,           1
+Stadlau,               Donaustadtbruecke,         2,    purple,           2
+Donaustadtbruecke,     Donaumarina,               2,    purple,           2
+Donaumarina,           Stadion,                   2,    purple,           2
+Stadion,               Krieau,                    2,    purple,           1
+Krieau,                Messe-Prater,              2,    purple,           1
+Messe-Prater,          Praterstern,               2,    purple,           2
+Praterstern,           Taborstrasse,              2,    purple,           1
+Taborstrasse,          Schottenring,              2,    purple,           2
+Schottenring,          Schottentor,               2,    purple,           1
+Ottakring,             Kendlerstrasse,            3,    orange,           1
+Kendlerstrasse,        Huetteldorfer strasse,     3,    orange,           1
+Huetteldorfer strasse, Johnstrasse,               3,    orange,           1
+Johnstrasse,           Schweglerstrasse,          3,    orange,           2
+Schweglerstrasse,      Westbahnhof,               3,    orange,           2
+Westbahnhof,           Zieglergasse,              3,    orange,           1
+Zieglergasse,          Neubaugasse,               3,    orange,           1
+Neubaugasse,           Volkstheater,              3,    orange,           2
+Volkstheater,          Herrengasse,               3,    orange,           1
+Herrengasse,           Stephansplatz,             3,    orange,           2
+Stephansplatz,         Stubentor,                 3,    orange,           1
+Stubentor,             Landstrasse,               3,    orange,           1
+Landstrasse,           Rochusgasse,               3,    orange,           2
+Rochusgasse,           Kardinal-Nagl-Platz,       3,    orange,           1
+Kardinal-Nagl-Platz,   Schlachthausgasse,         3,    orange,           1
+Schlachthausgasse,     Erdberg,                   3,    orange,           1
+Erdberg,               Gasometer,                 3,    orange,           2
+Gasometer,             Zippererstrasse,           3,    orange,           1
+Zippererstrasse,       Enkplatz,                  3,    orange,           1
+Enkplatz,              Simmering,                 3,    orange,           1
+Huetteldorf,           Ober St. Veit,             4,    green,            2
+Ober St. Veit,         Unter St. Veit,            4,    green,            2
+Unter St. Veit,        Braunschweiggasse,         4,    green,            1
+Braunschweiggasse,     Hietzing,                  4,    green,            1
+Hietzing,              Schoenbrunn,               4,    green,            2
+Schoenbrunn,           Meidling Haupstrasse,      4,    green,            2
+Meidling Haupstrasse,  Laengenfeldgasse,          4,    green,            1
+Laengenfeldgasse,      Margaretenguertel,         4,    green,            2
+Margaretenguertel,     Pilgramgasse,              4,    green,            2
+Pilgramgasse,          Kettenbrueckengasse,       4,    green,            1
+Kettenbrueckengasse,   Karlsplatz,                4,    green,            2
+Karlsplatz,            Stadtpark,                 4,    green,            1
+Stadtpark,             Landstrasse,               4,    green,            2
+Landstrasse,           Schwedenplatz,             4,    green,            1
+Schwedenplatz,         Schottenring,              4,    green,            2
+Schottenring,          Rossauer Laende,           4,    green,            1
+Rossauer Laende,       Friedensbruecke,           4,    green,            2
+Friedensbruecke,       Spittelau,                 4,    green,            1
+Spittelau,             Heiligenstradt,            4,    green,            2
+Siebenhirten,          Perfektastrasse,           6,    brown,            1
+Perfektastrasse,       Erlaaer strasse,           6,    brown,            1
+Erlaaer strasse,       Alterlaa,                  6,    brown,            2
+Alterlaa,              Am Schoepfwerk,            6,    brown,            2
+Am Schoepfwerk,        Tschwerttegasse,           6,    brown,            1
+Tschwerttegasse,       Bahnhof Meidling,          6,    brown,            2
+Bahnhof Meidling,      Niederhofstrasse,          6,    brown,            2
+Niederhofstrasse,      Laengenfeldgasse,          6,    brown,            1
+Laengenfeldgasse,      Gumpendorfer strasse,      6,    brown,            2        
+Gumpendorfer strasse,  Westbahnhof,               6,    brown,            1
+Westbahnhof,           Burggasse-Stadthalle,      6,    brown,            2
+Burggasse-Stadthalle,  Thaliastrasse,             6,    brown,            1
+Thaliastrasse,         Josefstaedter strasse,     6,    brown,            1
+Josefstaedter strasse, Alser strasse,             6,    brown,            2
+Alser strasse,         Michelbeuern - AKH,        6,    brown,            1
+Michelbeuern - AKH,    Waehringer strasse - Volksoper,         6,    brown,            1                     
+Waehringer strasse - Volksoper,     Nussdorfer strasse,        6,    brown,            2
+Nussdorfer strasse,    Spittelau,                 6,    brown,            2
+Spittelau,             Jaegerstrasse,             6,    brown,            1
+Jaegerstrasse,         Dresdner strasse,          6,    brown,            1
+Dresdner strasse,      Handelskai,                6,    brown,            1
+Handelskai,            Neue Donau,                6,    brown,            2
+Neue Donau,            Floridsdorf,               6,    brown,            2
